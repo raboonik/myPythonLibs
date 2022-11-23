@@ -1,2 +1,2 @@
 # myPythonLibs
-My pythion libraries
+My python libraries
